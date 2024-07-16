@@ -1,2 +1,2 @@
 gcc def.c wc.c -o name
-./name file_name
+./name file or path to file
